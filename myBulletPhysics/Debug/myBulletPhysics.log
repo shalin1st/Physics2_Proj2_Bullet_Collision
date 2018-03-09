@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (myPhysics.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  myBulletPhysics.cpp
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\bullet\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\bullet\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\bullet\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\mybulletphysics.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\mybulletphysics.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\mybulletphysics.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\mybulletphysics.cpp(181): warning C4101: 'yr': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\mybulletphysics.cpp(181): warning C4101: 'zy': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\mybulletphysics.cpp(181): warning C4101: 'xr': unreferenced local variable
+  myBulletPhysics.vcxproj -> C:\Users\shali\Desktop\Physics_Project2\FirstOpenGL (32bit, Day 8a)\Debug\myBulletPhysics.lib

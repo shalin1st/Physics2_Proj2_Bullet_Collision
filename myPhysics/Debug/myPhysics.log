@@ -1,0 +1,5 @@
+﻿  myPhysics.cpp
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\myphysics\myphysics.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\myphysics\myphysics.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\myphysics\myphysics.cpp(214): warning C4018: '<': signed/unsigned mismatch
+  myPhysics.vcxproj -> C:\Users\shali\Desktop\Physics_Project2\FirstOpenGL (32bit, Day 8a)\Debug\myPhysics.lib

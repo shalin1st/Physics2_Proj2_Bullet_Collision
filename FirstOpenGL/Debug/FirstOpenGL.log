@@ -1,0 +1,20 @@
+﻿  TheMain.cpp
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\bullet\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\bullet\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\mybulletphysics\bullet\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(276): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(586): warning C4018: '<': signed/unsigned mismatch
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(282): warning C4101: 'vpos_location': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(282): warning C4101: 'vcol_location': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(281): warning C4101: 'fragment_shader': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(281): warning C4101: 'vertex_shader': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(281): warning C4101: 'program': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(281): warning C4101: 'vertex_buffer': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(557): warning C4101: 'dl': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(557): warning C4101: 'vl': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(557): warning C4101: 'dr': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(557): warning C4101: 'vr': unreferenced local variable
+c:\users\shali\desktop\physics_project2\firstopengl (32bit, day 8a)\firstopengl\themain.cpp(175): warning C4715: 'SceneDescriptor': not all control paths return a value
+  FirstOpenGL.vcxproj -> C:\Users\shali\Desktop\Physics_Project2\FirstOpenGL (32bit, Day 8a)\Debug\FirstOpenGL.exe
