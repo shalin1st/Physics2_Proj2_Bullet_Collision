@@ -1,18 +1,17 @@
+This program demonstrates the implementation of bullet physics for collision detection in a 3D environment where you can control the 3d object and make it interact with other objects around it.
 Press C to change the physics engine
 = USE (x86) for run the project
-= For run the project,first of all build all three solution.
+=To run the project,first of all build all three solutions.
 
-= KEYEVENT:: MOVEMENT TO THE BALL
+Key presses:
 W = Move in forward direction 
-S = Move in Backword direction
-A = Move in Leftside
-D = Move in Rightside 
+S = Move backwards
+A = Move left
+D = Move right
 
-= For the CAMARA CONTROL use arrow key for zoom in, zoom out and change the direction of camara.
+= For the Camera, use arrow key to zoom in, zoom out and change the direction of camera.
 
-= For DEBUG RENDERING : '9' => for active the debug rendering.
-			'0' => for deactive debug rendering.
+= For DEBUG RENDERING : '9' => to activate the debug rendering.
+			'0' => to deactivate debug rendering.
 
-= All the model load with external text file which is inside the FirstOpenGl folder("Scene.txt").
-
- 
+= All of the models load with an external text file which is inside the FirstOpenGl folder("Scene.txt").
